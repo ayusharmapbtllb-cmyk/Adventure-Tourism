@@ -16,7 +16,7 @@ The main goal of this project is to practice **frontend development, UI design, 
 https://ayusharmapbtllb-cmyk.github.io/Adventure-Tourism/
 
 📂 Repository  
-https://github.com/AyushKumar101-code/Adventure--Tourism-website
+https://github.com/ayusharmapbtllb-cmyk/Adventure--Tourism-website
 
 ---
 
