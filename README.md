@@ -111,7 +111,7 @@ This project was created to:
 
 ## 👨‍💻 Author
 
-**Ayush Kumar**
+**Ayush Sharma**
 
 GitHub Profile  
 https://github.com/AyushKumar101-code
